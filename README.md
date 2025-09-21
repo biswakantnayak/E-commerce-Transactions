@@ -78,10 +78,10 @@ This project analyzes the **Online Retail Dataset (Dec 2010 – Dec 2011)** to u
 
 ## Key Insights
 
-* 📌 **Seasonality:** Holiday season drives maximum sales.
-* 📌 **Geography:** UK is the primary revenue driver.
-* 📌 **Product Mix:** Few products dominate sales & profits.
-* 📌 **Profit Margins:** Wide variation across products.
+*  **Seasonality:** Holiday season drives maximum sales.
+*  **Geography:** UK is the primary revenue driver.
+*  **Product Mix:** Few products dominate sales & profits.
+*  **Profit Margins:** Wide variation across products.
 
 ---
 
